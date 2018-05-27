@@ -1,2 +1,3 @@
-//temp branch commit
-int a=10;
+//解决了冲突，自己动手解决
+char c='a';
+  
